@@ -3,3 +3,14 @@
 h1 {color: black}
 h1 {font-size: 48pt;}
 h1 {text-align: center;}
+
+h2 {color:black}
+h2 {font-size: 30pt}
+h2 {text-align: center;}
+
+div style {
+           padding-top: 10px;
+           padding-right: 25px;
+           padding-bottom: 25px;
+           padding-left: 25px;
+          }
